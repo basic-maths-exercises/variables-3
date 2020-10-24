@@ -15,6 +15,6 @@ Given that you now know the order that Python performs operations in the order a
 
 ![](https://render.githubusercontent.com/render/math?math=\frac{5}{10})
 
-![](https://render.githubusercontent.com/render/math?math=\frac{10}{2%2B13})
+![](https://render.githubusercontent.com/render/math?math=\frac{10}{2%2B3})
 
 ![](https://render.githubusercontent.com/render/math?math=6\times3)
