@@ -11,10 +11,18 @@ In the last exericse you established that Python performs binary operations in t
 
 Given that you now know the order that Python performs operations in the order above fix the code in main.py so that the expressions given below are evaluated and output in the black square.
 
-![](https://render.githubusercontent.com/render/math?math=(13\times4)^2)
+$$
+(13\times4)^2
+$$
 
-![](https://render.githubusercontent.com/render/math?math=\frac{5}{10})
+$$
+\frac{5}{10}
+$$
 
-![](https://render.githubusercontent.com/render/math?math=\frac{10}{2%2B3})
+$$
+\frac{10}{2%2B3}
+$$
 
-![](https://render.githubusercontent.com/render/math?math=6\times3)
+$$
+6\times3
+$$
