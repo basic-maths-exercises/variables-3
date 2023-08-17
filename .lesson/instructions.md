@@ -11,18 +11,4 @@ In the last exericse you established that Python performs binary operations in t
 
 Given that you now know the order that Python performs operations in the order above fix the code in main.py so that the expressions given below are evaluated and output in the black square.
 
-$$
-(13\times4)^2
-$$
-
-$$
-\frac{5}{10}
-$$
-
-$$
-\frac{10}{2%2B3}
-$$
-
-$$
-6\times3
-$$
+![](equation.png)
